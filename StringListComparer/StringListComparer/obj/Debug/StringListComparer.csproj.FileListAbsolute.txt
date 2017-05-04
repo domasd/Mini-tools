@@ -1,9 +1,0 @@
-c:\users\domasd\documents\visual studio 2013\Projects\StringListComparer\StringListComparer\bin\Debug\StringListComparer.exe.config
-c:\users\domasd\documents\visual studio 2013\Projects\StringListComparer\StringListComparer\bin\Debug\StringListComparer.exe
-c:\users\domasd\documents\visual studio 2013\Projects\StringListComparer\StringListComparer\bin\Debug\StringListComparer.pdb
-c:\users\domasd\documents\visual studio 2013\Projects\StringListComparer\StringListComparer\obj\Debug\StringListComparer.csprojResolveAssemblyReference.cache
-c:\users\domasd\documents\visual studio 2013\Projects\StringListComparer\StringListComparer\obj\Debug\StringListComparer.Form1.resources
-c:\users\domasd\documents\visual studio 2013\Projects\StringListComparer\StringListComparer\obj\Debug\StringListComparer.Properties.Resources.resources
-c:\users\domasd\documents\visual studio 2013\Projects\StringListComparer\StringListComparer\obj\Debug\StringListComparer.csproj.GenerateResource.Cache
-c:\users\domasd\documents\visual studio 2013\Projects\StringListComparer\StringListComparer\obj\Debug\StringListComparer.exe
-c:\users\domasd\documents\visual studio 2013\Projects\StringListComparer\StringListComparer\obj\Debug\StringListComparer.pdb
